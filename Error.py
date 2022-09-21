@@ -16,5 +16,5 @@ try:
     average = divide(sum(Notas), len(Notas))
 except ZeroDivisionError as e:
     print("There are no grades yet in yout list.")
-
-print(f"The Average grade is {average}!!!")
+else:
+    print(f"The Average grade is {average}!!!")
