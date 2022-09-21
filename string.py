@@ -3,4 +3,4 @@ def hello(name, surname):
 
 
 
-hello(surname="Smith", name="Bob")
+hello(surname="Wick", name="John")
